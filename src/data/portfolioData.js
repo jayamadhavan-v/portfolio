@@ -174,9 +174,9 @@ export const contact = {
   description:
     'Currently available for freelance opportunities and full-time collaborations.',
   items: [
-    { label: 'Email', value: 'hello@madhavan.dev', icon: 'mail' },
-    { label: 'LinkedIn', value: 'linkedin.com/in/madhavan', icon: 'link' },
-    { label: 'Location', value: 'Bangalore, India', icon: 'location_on' },
+    { label: 'Email', value: 'jayamadhavan.vjm@gmail.com', icon: 'mail' },
+    { label: 'LinkedIn', value: 'linkedin.com/in/Jayamadhavan', icon: 'link' },
+    { label: 'Location', value: 'Chennai, India', icon: 'location_on' },
   ],
 };
 

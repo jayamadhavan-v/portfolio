@@ -6,7 +6,7 @@ function Footer() {
       <div className="flex flex-col md:flex-row justify-between items-center w-full max-w-[1280px] mx-auto px-8 gap-8">
         <div className="font-headline-md text-headline-md font-bold text-on-surface tracking-tight">Madhavan</div>
         <div className="font-body-md text-body-md text-on-surface-variant dark:text-surface-variant">
-          © 2024 Madhavan. Built with precision.
+          © 2026 Madhavan. Built with precision.
         </div>
         <div className="flex gap-6">
           {footerLinks.map((link, index) => (
